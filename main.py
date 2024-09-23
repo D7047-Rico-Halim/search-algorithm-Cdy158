@@ -23,6 +23,3 @@ heuristics = {
     'F': 1,
     'G': 0
 }
-
-start = 'A'
-goal = 'G'
